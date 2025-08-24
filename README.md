@@ -1,0 +1,1 @@
+idk im too lazy to do a readme rn just know that it was meant to be in folders but i put filters instead in visual studio so it messed it all up. sorry, ill put it into actual folders when i wake up lol
